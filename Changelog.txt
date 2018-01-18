@@ -1,4 +1,8 @@
-Aktuelle Version 0.1.1
+Aktuelle Version 0.1.2
+
+0.1.2 MPMission umbenannt
+========
+deathstar.taviana ->death_star.taviana
 
 0.1.1 Orgins Mapfix
 ========
