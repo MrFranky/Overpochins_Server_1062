@@ -1,0 +1,7 @@
+Aktuelle Version 0.1.0
+
+0.1.0 Epoch Update 1062
+========
++ Neuer Server mit Epoch 1062 aufgesetzt.
++ Overwatch 0.25
++ Origins 1.8
