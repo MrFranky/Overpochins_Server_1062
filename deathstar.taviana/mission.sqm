@@ -463,11 +463,11 @@ class Intro
 {
 	addOns[]=
 	{
-		"taviana"
+		"ori_taviana"
 	};
 	addOnsAuto[]=
 	{
-		"taviana"
+		"ori_taviana"
 	};
 	randomSeed=6913869;
 	class Intel
@@ -485,11 +485,11 @@ class OutroWin
 {
 	addOns[]=
 	{
-		"taviana"
+		"ori_taviana"
 	};
 	addOnsAuto[]=
 	{
-		"taviana"
+		"ori_taviana"
 	};
 	randomSeed=4081731;
 	class Intel
@@ -507,11 +507,11 @@ class OutroLoose
 {
 	addOns[]=
 	{
-		"taviana"
+		"ori_taviana"
 	};
 	addOnsAuto[]=
 	{
-		"taviana"
+		"ori_taviana"
 	};
 	randomSeed=4975929;
 	class Intel

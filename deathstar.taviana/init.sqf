@@ -128,6 +128,10 @@ if (!isDedicated) then {
 	execVM "\z\addons\dayz_code\system\antihack.sqf";
 	
 	if (dayz_townGenerator) then { execVM "\z\addons\dayz_code\compile\client_plantSpawner.sqf"; };
+	
+	_nil=[]execVM "scripts\Origins\clean_up_map.sqf";																										// 0.1.1 Orgins Mapfix
+				   
+	
 	execFSM "\z\addons\dayz_code\system\player_monitor.fsm";
 	//[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
 	if (DZE_R3F_WEIGHT) then {execVM "\z\addons\dayz_code\external\R3F_Realism\R3F_Realism_Init.sqf";};

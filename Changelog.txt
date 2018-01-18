@@ -1,4 +1,11 @@
-Aktuelle Version 0.1.0
+Aktuelle Version 0.1.1
+
+0.1.1 Orgins Mapfix
+========
+scripts/Origins/clean_up_map.sqf hinzugefügt
++ Störende Artefakte auf der Karte entfernt.
++ Trader Island ist jetzt begehbar
++ Randomspawn für Taviana
 
 0.1.0 Epoch Update 1062
 ========
